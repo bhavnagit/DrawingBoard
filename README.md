@@ -1,0 +1,2 @@
+# Drawingboard
+The core focus of this project was to provide users with an intuitive and efficient platform to create their resumes using a variety of thoughtfully designed templates. One of the standout features of this project is its attention to detail. I incorporated features such as real-time previews, allowing users to visualize their resume as they make edits. Furthermore, the project includes the ability to save, download the resume.
